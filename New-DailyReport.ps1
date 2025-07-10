@@ -44,7 +44,7 @@ $settings = [PSCustomObject]@{
         From     = "<from email address>"
     }
     GitHub = [PSCustomObject]@{
-        PAT = "<github personal access token>"
+        PAT = "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens"
     }
     TeamMembers = @(
         [PSCustomObject]@{ Email = "<developer1@example.com>"; GitHubId = "<github_username1>" }

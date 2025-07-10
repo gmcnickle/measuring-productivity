@@ -47,9 +47,6 @@ If we're serious about measuring individual developer productivity—ethically a
 
 - 📋 They align with the developer’s actual responsibilities. If part of their role is writing Jira tickets, then yes, track that—but track it meaningfully.
 
-And perhaps most importantly:
-
-No single metric tells the whole story. Before you even look at the data, you need to understand the questions you’re trying to answer.
 
 In my work, I’ve explored dozens of potential signals from Git and GitHub activity. Some were dead ends while others revealed unexpected insight.
 

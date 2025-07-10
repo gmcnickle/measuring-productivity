@@ -64,7 +64,7 @@ The script sends a styled HTML email to the designated team lead with:
 
 ### Closing Thoughts
 
-I hope this article gets you thinking about ways you might measure developer productitivy by leveraging the rich data at our fingertips, and I hope that it starts you on a journey of discovering what questions your team needs answers to.
+I hope this article gets you thinking about ways you might measure developer productitivy by leveraging the rich data available to us, and I hope that it starts you on a journey of discovering what questions your team needs answers to.
 
 The provided script was meant to be illustrative of the concept, and not a framework itself.  Build on it, consider adding caching, robust error handling and logging and support for reading configuration from a file and I think you'll find you have everything you need to build out your own automated analytics platform.
 

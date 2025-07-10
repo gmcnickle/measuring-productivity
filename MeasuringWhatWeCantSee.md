@@ -211,7 +211,7 @@ Metrics are most powerful when they’re part of an ongoing conversation—not a
 If you're considering implementing a metrics initiative within your organization, I encourage you to bring your development team into the process early.  Get them on the bus before it’s moving. Transparency helps build trust, reduce suspicion and improve adoption.
 
 ## A Practical Jumpstart
-To make these ideas more tangible, I’ve included a PowerShell script that analyzes Git activity over the last 24 hours and emails a summary to a team lead. It pulls data like:
+To make these ideas more tangible, I’ve [included a PowerShell script](https://github.com/gmcnickle/measuring-productivity/blob/main/New-DailyReport.ps1) that analyzes Git activity over the last 24 hours and emails a summary to a team lead. It pulls data like:
 
 Number of commits
 

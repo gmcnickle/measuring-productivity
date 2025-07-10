@@ -67,10 +67,8 @@ The provided script was meant to be illustrative of the concept, and not a frame
 
 Above all, talk with your team and share your work!
 
-Best of luck! I'm available if you need me.
---
-Best of luck. I'm available if you need me.  
-—  
+Best of luck. Reach out if you have questions.
+
 [**Gary**](https://github.com/gmcnickle)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40gmcnickle-181717?logo=github&style=flat-square)](https://github.com/gmcnickle)
